@@ -1,0 +1,71 @@
+body {
+    background-color: #c0a5c9;
+	margin: 0px;
+	padding: 0px;
+	color: white;
+}
+.header .body
+{
+	background-color: #6c5f70;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	padding: 10px;
+}
+.menu
+{
+	margin-top: 10px;
+	margin-left: 10px;
+	color: white;
+	width: 270px;
+}
+.menu h3
+{
+	margin-top: 10px;
+	background-color: #6c5f70;
+	color: white;
+	width: 270px;
+	margin-bottom: 0px;
+	text-align: center;
+	
+}
+.menu .body
+{
+	background-color: #907c96;
+	padding: 5px;
+	font-size: 15px;
+}
+.menu a
+{
+	color: white;
+	text-decoration: none;
+	padding: 3px;
+}
+.menu a:hover
+{
+	background-color: #c0a5c9;
+}
+p {
+	font-size: 20px;
+	margin: 15px;
+}
+
+h1{
+	text-align: center;	
+	font-size: 35px;
+	color: black;
+}
+h4{
+	text-align: center;
+	font-size: 25px;
+	color: black;
+}
+p2{
+	font-size: 20px;
+	padding: 20px;
+	color: black;
+}
+p3 {
+	font-size: 15px;
+	color: black;
+}
